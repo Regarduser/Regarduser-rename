@@ -10,7 +10,7 @@ using [Pyrogram](https://docs.pyrogram.org)!!
 
 Use this at your own risk as heroku suspended accounts on deploying due to overuse.
 </br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NVSBUDDY/TG-RenameBot)
 
 #### BEST WAY (VPS)
 
