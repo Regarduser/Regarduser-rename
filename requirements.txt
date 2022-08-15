@@ -9,6 +9,6 @@ numpy
 Pillow
 
 # for database 😕
-sqlalchemy
+SQLAlchemy==1.3.24
 psycopg2-binary
 feedparser
