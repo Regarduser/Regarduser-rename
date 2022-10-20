@@ -15,19 +15,19 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your bot token, Get it from @Botfather.",
-      "value": ""
+      "value": "5769997590:AAHN-k0_gGydh5vGNDEV1V5Dhgg2jX84na4"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "15135932"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "e63f5284308097bc0e8751316dcfa48b"
     },
     "OWNER_ID": {
       "description": "Owner userid to use for getting logs..",
-      "value": ""
+      "value": "5201479132"
     },
     "OWNER_USERNAME": {
       "description": "(Optional)Owners username to use at start msg button..",
